@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SprintStartTimer</string>
+    <string name="onMarksTime">Delay after pressing start</string>
+    <string name="setTime">Delay before set command</string>
+    <string name="minTime">min time before starting</string>
+    <string name="maxTime">max time before starting</string>
+    <string name="startButton">Start</string>
+
+    <string name="backToMain">save</string>
+</resources>
